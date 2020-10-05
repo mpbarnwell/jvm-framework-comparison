@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.bumble.devel.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, docker, file-watch, grpc, junit, kotlin, kotlin-application, logback, maven, readme, shade, yaml]
